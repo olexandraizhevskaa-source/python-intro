@@ -1,0 +1,6 @@
+supplier,category,quantity,price_per_unit,date
+BioPharm,Antibiotic,120,3.5,2024-05-10
+PharmaX,Vitamin,200,1.8,2024-05-12
+MedCorp,Antibiotic,80,4.0,2024-05-15
+VitaPlus,Vitamin,350,1.5,2024-05-18
+ImmuniCo,Vaccine,60,9.0,2024-05-22

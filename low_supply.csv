@@ -1,0 +1,3 @@
+supplier,category,quantity,price_per_unit,date,total_revenue
+MedCorp,Antibiotic,80,4.0,2024-05-15,320.0
+ImmuniCo,Vaccine,60,9.0,2024-05-22,540.0
